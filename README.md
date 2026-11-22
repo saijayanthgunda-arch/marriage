@@ -10,7 +10,7 @@ Interactive Digital Wedding Invitation Website for **Vyshnavi Gunda & Sairajesh 
 ### Bride's Family
 - **Parents**: Smt. Rajyalakshmi Gunda & Sri. Srinivas Gunda
 - **Daughter**: Vyshnavi Gunda
-- **Sister**: Pranavi Gunda
+- **Sister**: Pranavi Tadakamalla
 - **With Love**: The GUNDA Family 🌸
 
 ### Groom's Family
